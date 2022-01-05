@@ -6,6 +6,7 @@
 ```sh
 cd /home/
 wget https://dl.max16k.network/AKWnet-FR.zip
+unzip AKWnet-FR.zip
 cd AKWnet-FR
 tar -xf fx.tar.xz
 chmod 777 run.sh start.sh
