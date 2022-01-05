@@ -16,15 +16,10 @@ Fertig nun kannst du dich per Webinterface anmelden: "IP:40121" (port kann man m
 ```
 
 ## txAdmin Setup
- - Hier gibst du den Server einen Namen, völlig egal welchen.
 ![Schritt 1](https://github.com/MaximilianGT500/FiveM-Freeroam-Server/raw/main/IqcPBp3qZKCVW7rSdtdlAfR8BdAbwOki-688x225.png)
- - Hier wählst du das zweite aus.
 ![Schritt 2](https://github.com/MaximilianGT500/FiveM-Freeroam-Server/raw/main/KJ6oYqDC6dpJ8xcv6Pf94kaNcCAXT4T8-697x486.png)
- - Hier gibst du den Path zu den Serverdateien (AKWnet-Server) ein in meinen fall: "/home/AKWnet-FR/AKWnet-Server"
 ![Schritt 3](https://github.com/MaximilianGT500/FiveM-Freeroam-Server/raw/main/O26xSFFuMeY9x0N616OrZg7sDv3c0WbM-701x219.png)
- - Hier gibst du den Path zu deiner Config ein (server.cfg) ein in meinen fall: "/home/AKWnet-FR/AKWnet-Server/server.cfg"
 ![Schritt 4](https://github.com/MaximilianGT500/FiveM-Freeroam-Server/raw/main/bJk0V1oUXCGysQsq1339uPFAZPWcXqLY-688x253.png)
- - Nun bist du Fertig!
 ![Schritt 5](https://github.com/MaximilianGT500/FiveM-Freeroam-Server/raw/main/LIzPLSMEeATejxA7ApgbCMONO7vYNLav-275x158.png)
 
 ## Downloads
